@@ -1,0 +1,2 @@
+class SharksController < ApplicationController
+end
